@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+/.idea/
+/LinkedList_data_structure.iml
